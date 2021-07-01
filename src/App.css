@@ -1,0 +1,25 @@
+.marginRight{
+  margin-right: 4px;
+}
+.home{
+  margin-top: 1rem;
+}
+.create-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+input[type="text"] ,[type="submit"] {
+  padding: 10px;
+  display: block;
+  width: 300px;
+  margin-bottom: 8px;
+  outline: none;
+}
+.button{
+margin-right: 3px;
+}
+.margin-2{
+  margin-right: 3px;
+}
